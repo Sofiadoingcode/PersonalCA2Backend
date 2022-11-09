@@ -168,9 +168,9 @@
                     </compilerArguments>
                     <compilerArgs>
                         <!-- Comment in (and dont forget out) as required -->
-                        <!-- <arg>-verbose</arg>-->
-                        <!--<arg>-Xlint:unchecked</arg>-->
-                        <!--<arg>-Xlint:deprecation</arg>-->
+                         <arg>-verbose</arg>
+                        <arg>-Xlint:unchecked</arg>
+                        <arg>-Xlint:deprecation</arg>
                     </compilerArgs>
                 </configuration>
             </plugin>
